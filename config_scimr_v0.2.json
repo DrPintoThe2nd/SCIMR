@@ -1,0 +1,22 @@
+{
+	"clump_mem": 18,
+	"per_job_threads": 12,
+	"window_size": "100000",
+
+	"genome": "GCF_023053635.1_rElgMul1.1.pri_genomic.fna",
+	"ChrNum": "23",
+
+	"R1_suffix": "_1.fq.gz",
+	"R2_suffix": "_2.fq.gz",
+
+	"males": [
+	"E_multicarinata_M_EL382_val",
+	"E_multicarinata_M_EL482_val",
+	"E_multicarinata_M_EL714_val"],
+
+	"females": [
+	"E_multicarinata_F_EL1178_val",
+	"E_multicarinata_F_EL689_val",
+	"E_multicarinata_F_EL757_val"]
+
+}
